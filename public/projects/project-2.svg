@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#111827"/>
+  <rect x="85" y="70" width="1030" height="535" rx="28" fill="#0f172a" stroke="#f97316" stroke-opacity=".4"/>
+  <circle cx="180" cy="140" r="16" fill="#f97316" fill-opacity=".5"/>
+  <circle cx="230" cy="140" r="16" fill="#14b8a6" fill-opacity=".5"/>
+  <rect x="130" y="210" width="940" height="260" rx="16" fill="#1e293b"/>
+  <text x="130" y="550" fill="#f8fafc" font-size="46" font-family="Arial, sans-serif">Project Placeholder 02</text>
+  <text x="130" y="600" fill="#94a3b8" font-size="30" font-family="Arial, sans-serif">Add your real dashboard or app image here</text>
+</svg>

@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+
+.env
+.env.local
+.env.*.local
+
+*.log
+*.tsbuildinfo
+verification-shots/
+.chrome-verification-profile*/
+
+End Point/client/node_modules/
+End Point/server/node_modules/
